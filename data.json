@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "ninja@email.com",
+        "password": "1n7%fVLs7*iprzU"
+    },
+    "Ebay": {
+        "email": "ninja@email.com",
+        "password": "*WVm4XExh2C2(P"
+    },
+    "Wish": {
+        "email": "ninja@email.com",
+        "password": "HCYjk8%8*JQj*3!"
+    },
+    "Yahoo": {
+        "email": "project.alice13@yahoo.com",
+        "password": "cJb$O547HTbNT+p"
+    },
+    "PythonAnywhere": {
+        "email": "ninaa.emersic@gmail.com",
+        "password": "Ay#q6BVU4hQ$$i"
+    }
+}
